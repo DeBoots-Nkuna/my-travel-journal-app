@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* body */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* app component style */
+
+.container {
+  margin: 45px 40px;
+}
+
+/* header component styles */
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f55a5a;
+  height: 55px;
+  color: white;
+}
+
+.header-container h1 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.img-icon {
+  margin-right: 8px;
+}
+
+/* article component styles */
+
+.article-container {
+  display: flex;
+  margin-bottom: 35px;
+}

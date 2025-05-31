@@ -1,7 +1,13 @@
+import { Header } from './components/Header'
+import { Article } from './components/Article'
+
 export const App = () => {
   return (
     <>
-      <h2>My travel journal</h2>
+      <Header />
+      <main className="container">
+        <Article />
+      </main>
     </>
   )
 }
