@@ -14,9 +14,9 @@ const travelData = [
       url: 'https://unsplash.com/photos/brown-rocky-mountain-under-blue-sky-during-daytime-B21WLsX6a5c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash',
     },
     title: 'Table Mountain',
-    country: '`South Africa',
+    country: 'South Africa',
     googleMapsLink: 'https://maps.app.goo.gl/rEqZFUsXMs6ApLZA8',
-    dates: '20 Jan, 2019',
+    date: '20 Jan, 2019',
     text: "Table Mountain stands as Cape Town's most renowned natural landmark, soaring 1,086 meters above sea level. Visitors have the option to hike up using diverse trails or enjoy a ride on the rotating cable car for sweeping views of the cityscape, Table Bay, and the Atlantic Ocean. The summit belongs to Table Mountain National Park and hosts distinctive plant life such as the well-known fynbos vegetation.",
   },
   {
